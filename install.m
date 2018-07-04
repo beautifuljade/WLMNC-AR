@@ -1,5 +1,3 @@
-setpaths
-cd mexfunctions
 fprintf('Compiling all mex functions ...\n');
 mex SOD_hmy.c
 mex SODW_hmy.c

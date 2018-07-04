@@ -7,7 +7,6 @@
 
 
 clear all; close all; 
-setpaths
 path_name='dataset';
 path_namet='result';
 dataset_name='hug';
